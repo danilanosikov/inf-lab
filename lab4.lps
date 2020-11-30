@@ -9,45 +9,134 @@
         <Filename Value="lab4.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="10"/>
-        <CursorPos X="27" Y="36"/>
-        <UsageCount Value="20"/>
+        <TopLine Value="143"/>
+        <CursorPos X="5" Y="149"/>
+        <FoldState Value=" T3G0K5 T1f09y"/>
+        <UsageCount Value="68"/>
         <Loaded Value="True"/>
       </Unit0>
     </Units>
-    <JumpHistory Count="8" HistoryIndex="7">
+    <JumpHistory Count="30" HistoryIndex="29">
       <Position1>
         <Filename Value="lab4.lpr"/>
-        <Caret Line="5" Column="10"/>
+        <Caret Line="178" Column="34" TopLine="163"/>
       </Position1>
       <Position2>
         <Filename Value="lab4.lpr"/>
-        <Caret Line="33" Column="37"/>
+        <Caret Line="174" Column="22" TopLine="155"/>
       </Position2>
       <Position3>
         <Filename Value="lab4.lpr"/>
-        <Caret Line="8" Column="12"/>
+        <Caret Line="170" Column="41" TopLine="160"/>
       </Position3>
       <Position4>
         <Filename Value="lab4.lpr"/>
-        <Caret Line="3" Column="11"/>
+        <Caret Line="180" Column="31" TopLine="166"/>
       </Position4>
       <Position5>
         <Filename Value="lab4.lpr"/>
-        <Caret Line="9" Column="12"/>
+        <Caret Line="202" Column="55" TopLine="181"/>
       </Position5>
       <Position6>
         <Filename Value="lab4.lpr"/>
-        <Caret Line="25" Column="19" TopLine="6"/>
+        <Caret Line="189" Column="90" TopLine="169"/>
       </Position6>
       <Position7>
         <Filename Value="lab4.lpr"/>
-        <Caret Line="27" Column="32" TopLine="13"/>
+        <Caret Line="66" Column="9" TopLine="44"/>
       </Position7>
       <Position8>
         <Filename Value="lab4.lpr"/>
-        <Caret Line="36" Column="27" TopLine="10"/>
+        <Caret Line="48" Column="35" TopLine="34"/>
       </Position8>
+      <Position9>
+        <Filename Value="lab4.lpr"/>
+        <Caret Line="54" Column="10" TopLine="40"/>
+      </Position9>
+      <Position10>
+        <Filename Value="lab4.lpr"/>
+        <Caret Line="60" Column="34" TopLine="43"/>
+      </Position10>
+      <Position11>
+        <Filename Value="lab4.lpr"/>
+        <Caret Line="71" Column="10" TopLine="48"/>
+      </Position11>
+      <Position12>
+        <Filename Value="lab4.lpr"/>
+        <Caret Line="67" Column="15" TopLine="53"/>
+      </Position12>
+      <Position13>
+        <Filename Value="lab4.lpr"/>
+        <Caret Line="65" Column="10" TopLine="51"/>
+      </Position13>
+      <Position14>
+        <Filename Value="lab4.lpr"/>
+        <Caret Line="67" Column="15" TopLine="53"/>
+      </Position14>
+      <Position15>
+        <Filename Value="lab4.lpr"/>
+        <Caret Line="68" Column="12" TopLine="51"/>
+      </Position15>
+      <Position16>
+        <Filename Value="lab4.lpr"/>
+        <Caret Line="67" Column="15" TopLine="53"/>
+      </Position16>
+      <Position17>
+        <Filename Value="lab4.lpr"/>
+        <Caret Line="65" Column="45" TopLine="57"/>
+      </Position17>
+      <Position18>
+        <Filename Value="lab4.lpr"/>
+        <Caret Line="62" Column="29" TopLine="48"/>
+      </Position18>
+      <Position19>
+        <Filename Value="lab4.lpr"/>
+        <Caret Line="47" Column="5" TopLine="82"/>
+      </Position19>
+      <Position20>
+        <Filename Value="lab4.lpr"/>
+        <Caret Line="94" Column="21" TopLine="47"/>
+      </Position20>
+      <Position21>
+        <Filename Value="lab4.lpr"/>
+        <Caret Line="141" TopLine="97"/>
+      </Position21>
+      <Position22>
+        <Filename Value="lab4.lpr"/>
+        <Caret Line="158" Column="104" TopLine="145"/>
+      </Position22>
+      <Position23>
+        <Filename Value="lab4.lpr"/>
+        <Caret Line="17" TopLine="99"/>
+      </Position23>
+      <Position24>
+        <Filename Value="lab4.lpr"/>
+        <Caret Line="151" Column="27" TopLine="138"/>
+      </Position24>
+      <Position25>
+        <Filename Value="lab4.lpr"/>
+        <Caret Line="172" Column="61" TopLine="155"/>
+      </Position25>
+      <Position26>
+        <Filename Value="lab4.lpr"/>
+        <Caret Line="18" Column="38" TopLine="5"/>
+      </Position26>
+      <Position27>
+        <Filename Value="lab4.lpr"/>
+        <Caret Line="26" Column="71" TopLine="21"/>
+      </Position27>
+      <Position28>
+        <Filename Value="lab4.lpr"/>
+        <Caret Line="53" Column="9" TopLine="15"/>
+      </Position28>
+      <Position29>
+        <Filename Value="lab4.lpr"/>
+        <Caret Line="196" Column="89" TopLine="174"/>
+      </Position29>
+      <Position30>
+        <Filename Value="lab4.lpr"/>
+        <Caret Line="213" Column="35" TopLine="195"/>
+      </Position30>
     </JumpHistory>
     <RunParams>
       <FormatVersion Value="2"/>
